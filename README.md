@@ -1,5 +1,5 @@
 # tornpy
-Some torn.com API key functions with python
+Some torn.com API functions with python
 
 
 ![](https://i.imgur.com/EoQRKO0.png)
